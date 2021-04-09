@@ -1,4 +1,4 @@
-# I'm using the Minimal Mistakes Jekyll theme
+# The Minimal Mistakes Jekyll theme
 
 I'm using [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
