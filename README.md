@@ -1,4 +1,4 @@
-# Minimal Mistakes remote theme starter
+# I'm using the Minimal Mistakes Jekyll theme
 
 I'm using [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
