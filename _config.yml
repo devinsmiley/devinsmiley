@@ -18,7 +18,7 @@ title: Devin Smiley
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   This is an awesome description, right?! 
-subtitle: "Personal and protecting myself"
+subtitle: "Personally personal"
 twitter_username: H_Trick
 github_username: devinsmiley
 minimal_mistakes_skin: dark
@@ -75,8 +75,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/devin-smiley/"
 
 footer:
   links:
