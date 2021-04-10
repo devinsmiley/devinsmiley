@@ -59,7 +59,8 @@ plugins:
 
 author:
   name   : "Devin Smiley"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "assets/images/018AB898-2921-4099-84CC-4F6443054F1F_1_105_c.jpeg"
+  # avatar : "/assets/images/bio-photo.jpg"   Previous stock bio photo placeholder
   bio    : "Bio?! We don't need no stinkin' bio!"
   links:
     - label: "Website"
