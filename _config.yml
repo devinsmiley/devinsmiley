@@ -62,34 +62,37 @@ author:
   avatar : "assets/images/018AB898-2921-4099-84CC-4F6443054F1F_1_105_c.jpeg"
   # avatar : "/assets/images/bio-photo.jpg"   Previous stock bio photo placeholder
   bio    : "Bio?! We don't need no stinkin' bio!"
-  links:
+  links:                       #Only for professional links....Github, LinkedIn
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.devinsmiley.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "Twitter"         #Twitter uses my DeSmiles or DeAndrew handle. Not including in social media posts.
+#      icon: "fab fa-fw fa-twitter-square"   
+#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/devinsmiley"
+#    - label: "Instagram"       #Instagram uses my DeSmiles or DeAndrew handle. Not including in social media posts.
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/devin-smiley/"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+  links:                      #Only for professional links....Github, LinkedIn
+#    - label: "Twitter"       #Twitter uses my DeSmiles or DeAndrew handle. Not including in social media posts.
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/H_Trick"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/devinsmiley"
+#    - label: "Instagram"        #Instagram uses my DeSmiles or DeAndrew handle. Not including in social media posts.
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/devin-smiley/"
 
 defaults:
   # _posts
