@@ -4,10 +4,10 @@ I'm using [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-m
 
 I'm using the basic configuration to give me a site with:
 
-- Sample posts.
+- Posts.
 - Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
+- Author sidebar with social links.
+- Footer links.
 - Paginated home page.
 - Archive pages for posts grouped by year, category, and tag.
 - Sample about page.
