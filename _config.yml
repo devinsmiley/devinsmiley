@@ -61,7 +61,7 @@ author:
   name   : "Devin Smiley"
   avatar : "assets/images/018AB898-2921-4099-84CC-4F6443054F1F_1_105_c.jpeg"
   # avatar : "/assets/images/bio-photo.jpg"   Previous stock bio photo placeholder
-  bio    : "Bio?! We don't need no stinkin' bio!"
+  bio    : "Just getting started!"
   links:                       #Only for professional links....Github, LinkedIn
     - label: "Website"
       icon: "fas fa-fw fa-link"
