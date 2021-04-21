@@ -5,6 +5,8 @@ categories:
 tags:
   - Post Formats
   - quote
+  - Deming
+  - Mattis
 ---
 
 I added the "process" into the below Deming quote. It seems just as appropriate.
